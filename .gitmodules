@@ -1,0 +1,15 @@
+[submodule ".themes/dark"]
+	path = .themes/dark
+	url = git://github.com/octopress-themes/classic-dark.git
+[submodule ".themes/darkstripes"]
+	path = .themes/darkstripes
+	url = git://github.com/amelandri/darkstripes.git
+[submodule ".themes/greyshade"]
+	path = .themes/greyshade
+	url = git@github.com:shashankmehta/greyshade.git
+[submodule ".themes/murky-mussels"]
+	path = .themes/murky-mussels
+	url = git@github.com:octopress-themes/murky-mussels.git
+[submodule ".themes/whitespace"]
+	path = .themes/whitespace
+	url = git@github.com:lucaslew/whitespace.git
