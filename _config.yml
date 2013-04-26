@@ -63,6 +63,12 @@ github_repo_count: 3
 github_show_profile_link: true
 github_skip_forks: true
 
+# Facebook
+facebook_user: john.drouhard
+
+# LinkedIn
+linkedin_user: johndrouhard
+
 # Twitter
 twitter_user: johnmiked15
 twitter_tweet_button: true
