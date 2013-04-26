@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: john@jmdtech.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -59,7 +59,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Github repositories
 github_user: johnmiked15
-github_repo_count: 5
+github_repo_count: 3
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -73,7 +73,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: john@jmdtech.org
+googleplus_user: 103398227401544595010
 googleplus_hidden: false
 
 # Pinboard
