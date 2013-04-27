@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://johnmiked15.github.io
+url: http://jmdtech.org
 title: John Drouhard
 subtitle: software engineer
 author: John Drouhard
@@ -16,7 +16,8 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+#subscribe_rss: /atom.xml
+subscribe_rss:
 subscribe_email:
 # RSS feeds can list your email address if you like
 email: john@jmdtech.org
