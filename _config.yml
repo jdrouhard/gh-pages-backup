@@ -9,6 +9,14 @@ author: John Drouhard
 simple_search: http://google.com/search
 description:
 
+navigation:
+- text: Blog
+  url: /index.html
+- text: Archives
+  url: /blog/archives/index.html
+- text: About Me
+  url: /about-me/
+
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
