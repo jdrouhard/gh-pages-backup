@@ -15,7 +15,7 @@ navigation:
 - text: Archives
   url: /blog/archives/index.html
 - text: About Me
-  url: /about-me/
+  url: /about-me/index.html
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -88,7 +88,7 @@ twitter_user: johnmiked15
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -113,3 +113,6 @@ google_analytics_tracking_id: UA-40389871-1
 
 # Facebook Like
 facebook_like: true
+
+# AddThis
+addthis_profile_id: ra-519803f72008528f
