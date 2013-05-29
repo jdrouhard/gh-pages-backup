@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Santa Scala, the True Cross, and Marriage"
+date: 2013-05-25 07:54
+comments: true
+categories: 
+---
+
+I'm finally adjusted to the time zone change. I thought I had completely adjusted by the second day but now I'm back to my same ol' schedule I was on back home: stay up way later than I should (1 am) and wake up *just* in time to be ready for the day. Because that's how I roll.
+
+I'm currently sitting on a train that's taking us from Rome to Assisi. It's a little over 2 hours and the people I'm sitting with are all trying to nap (and it's really loud anyway), so here I am.
+
+Yesterday, we started off by going to St. John Lateran where we celebrated mass at a side chapel that apparently covers the entrance (or contains, somehow) the original Last Supper table. Totally legit. The church was magnificent. St. Peter's is definitely bigger and probably more awe-inspiring but this basilica is very thematic and everything flows together to really tell the stories it was meant to. It has huge statues of the Apostles who are each holding the instruments of their martyrdom. Many side chapels, incredible acoustics (if you stand at certain points in the basilica, you can whipser and people in other places can hear you perfectly, it's awesome), beautiful frescoes lining the upper walls and ceilings, and the throne of the Pope. It's right next to the JPII Center for Marriage and Family school as well, which we got to visit.
+
+Right around the corner is Santa Scala (The Holy Stairs). St. Helen (Constantine's mother) was a relic hunter and found many relics in Jerusalem and brought them to Rome, one of them being all the official stairs that Jesus would have climbed up to reach Pilate for his final judgment. The original marble is covered in oak to protect it, but they have windows over bloodstains that are believed to be Jesus' from when he walked up them. Out of reverence, pilgrims climb the stairs on their knees to the top, where a chapel that was the called the "Holiest Place on Earth" is. I must say, climbing those stairs was extremely painful, but was an amazing experience. I know that my pain amounted to nothing compared to what the Lord endured, but offering up that little pain I did experience was humbling and moving.
+
+From there, we made our way a few minutes down the road to Santa Croce (Holy Cross), where many relics of Christ's passion are displayed. <!--more-->We saw 2 of the original thorns from the crown of thorns, one of the nails used to nail Jesus to the cross, pieces of the cross itself, and the original tablet that had Jesus' accusation written on it (the famous "INRI" sign). A photostatic copy of the Shroud of Turin was in the next room. The priest (Fr. Edward from the Apostles of the Interior Life) that was with us heard our confessions while we prayed and looked at these relics. The pieces were extraordinary and I'm still in shock that I got to see first hand the nail, the thorns, the inscription, and pieces of the cross itself. Incredible.
+
+Lunch was at the cafeteria at JPII Center for Marriage and Family (which was suprisingly delicious and not too expensive!), and from there we went back to the Monastery for some quiet time for a couple hours where I told myself I wouldn't take a nap and would do other things, but ended up falling asleep with my laptop on my lap for over an hour anyway. So much for my plan.
+
+Dinner was amazing. Probably the most Italian thing we've had so far and was the restaurant of choice of Mike and his kids--McDonalds. That's right, I got a Big Mac in Rome. *However*, their McDonalds are ten times cooler than ours. They have these little kiosks where you can order you food and they'll bring it to you, it was like 3 times larger, way more seating options, you could buy beer, it was crazy.
+
+Then, my favorite part of the day (as if it hadn't already been awesome enough, right?), was after dinner when we took a walk around the Spanish Steps and into a Park where Mike and Kristi shared their story of discernment and meeting each other. It was one of the most beautiful stories I've heard, and I knew that upon hearing the way Mike talked about his journey of discernment, coming to the conclusion he was supposed to be a husband and father before finding the girl, having a long period (over a year or two if I recall) that no girls showed up at all, and then how he met Kristi and all the signs from God he received, I knew that that's what I want. That's what my heart desires, a loving wife and kids that I can take care of and raise to be children of God.
+
+Then of course we all drank wine on the back porch of the Monastery (including the bottle of Brunello I had got the day before, which was delicious!) and I stayed up way too late. It happens. Today, we went to Mass in the room that St. Ignatius passed away. It was a pretty unassuming little room in a church (Gesu) that housed some other items St. Ignatius owned (books, some clothing, etc). Afterwards, we made our way to the train station to head to Assisi.
