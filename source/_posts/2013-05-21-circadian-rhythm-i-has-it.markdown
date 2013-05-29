@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-{% img left http://tinyurl.com/nwpfrqc 400 300 %}
+{% img left https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/983426_1996062219821_1905636241_n.jpg?oh=7e2da5d97a523c427968912bc7779290&oe=51A8817A&__gda__=1370038701_464c79aef0db43ab50c6f5e12d74b56a 400 300 %}
 
 The first day of my trip, which is now to about hour 30 or so, has been a success. Not the flying  part, that was not a success. I told myself I'd avoid jet lag by falling asleep at 8:30 pm local time (3:30 am Rome time) and sleeping till the plane landed at 9:30 am Rome time, giving me 6 hours of sleep and waking up in the morning. Pipe dream, the whole thing. Not only did I not fall asleep right at 8:30, I didn't sleep at all. I also told myself I'd be productive and work on some code for my dominion client/server. Didn't even touch it. I watched a movie, tried to sleep, and read.
 
