@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The final five days in Europe"
+title: "Please mind the gap and follow the Way Out signs"
 date: 2013-06-09 22:09
 comments: true
 categories: 
@@ -19,4 +19,12 @@ After the war rooms, we walked around a bit outside, got some lunch at a cart st
 
 Our London Pass also got us a boat tour down Thames. We decided to see what that was about and took a tour boat from the tower bridge area all the way back to Westminster along the Thames as a tour guide explained all the various things you could see form the river, and a bit of history on the bridges that cross it. He was pretty hysterical and frequently made fun of the various buildings and functions they serve. The modern art building, for instance, he called a joke, and said it was free because of the junk it contained, and listed off some of the "art" it showcased. The specific examples he gave elude me right now but were hilarious. Trust me.
 
-We then made our way to the London eye. Beautiful view the whole ride, and was a fun way to see a lot of the city in a relaxing way
+We then made our way to the London eye. Beautiful view the whole ride, and was a fun way to see a lot of the city in a relaxing way.
+
+The next day, went to the Globe Theatre. There is an exhibition and museum in part of it before you see the actual theatre which we didn't spend a whole lot of time in since we got there right as the tour was about to begin. The Globe Theatre that currently stands in London is not the one Shakespeare himself would have written plays for, as two iterations of it had burned down in his lifetime. The one that stands today is a recreation to as close of what they think they original was like as they could get. The fact that it's an outside theatre and the way everything was shaped is very different from the type of theatre you'd see today and was quite interesting.
+
+As soon as we were done with the tour, we actually had tickets to see a Shakespeare play that afternoon: "A Midsummer Night's Dream." It was awesome. Let me tell ya, I never really liked reading Shakespeare in school (I think a lot of it went over my head and I just didn't find it enjoyable), but seeing it as an actual play, especially at the Globe, is a whole different experience. It was funny, engaging, entertaining, and awesome. Lasted nearly 3 hours but I loved it. The actors and the director obviously understood what the play was intended to be like and did a great job bringing it to life.
+
+We decided to try to squeeze as much value out of our London passes as possible, so after the play, we raced around to various things to try to get in before they closed, one of which was the Monument (to the great fire of London) which is a huge obelisk tower thing you can climb to the top. It was a very tight winding staircase on the inside consisting of 311 steps but the view was amazing.
+
+The next day, we got up early to leave for Dublin.
